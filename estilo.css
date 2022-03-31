@@ -7,3 +7,8 @@ img{
     background-color: aliceblue;
     background-image: linear-gradient(rgb(218, 146, 129),rgb(163, 102, 88) )
 }
+#grad2{
+    height:400px; 
+    background-image: comida.png;
+    background-color: #ccccc;
+}
