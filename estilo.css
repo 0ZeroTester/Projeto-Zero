@@ -9,6 +9,6 @@ img{
 }
 #grad2{
     height:400px; 
-    background-image: comida.png;
+    background-image: url(comida.png);
     background-color: #ccccc;
 }
